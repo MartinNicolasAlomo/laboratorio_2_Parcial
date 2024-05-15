@@ -1,0 +1,12 @@
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.sourcelink.json
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\alomo\Laboratorio II - C1, 2024\laboratorio_2_Parcial\laboratorio_2_Parcial\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
